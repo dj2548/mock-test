@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.AssemblyInfo.cs
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\bin\Debug\net6.0\MOCK TESR.exe
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\bin\Debug\net6.0\MOCK TESR.deps.json
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\bin\Debug\net6.0\MOCK TESR.runtimeconfig.json
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\bin\Debug\net6.0\MOCK TESR.dll
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\bin\Debug\net6.0\MOCK TESR.pdb
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.dll
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\refint\MOCK TESR.dll
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.pdb
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\MOCK TESR.genruntimeconfig.cache
+C:\Users\Somber\source\repos\PRACTICE TESR\MOCK TESR\MOCK TESR\obj\Debug\net6.0\ref\MOCK TESR.dll
